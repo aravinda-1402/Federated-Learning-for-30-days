@@ -154,7 +154,6 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
 
 ## 🎯 Potential Final Project Ideas
 
-Choose a solid AI/ML-focused FL project that showcases your understanding:
 1. **Adversarial Robustness in FL**:  
    - Simulate and defend against gradient inversion or backdoor attacks.  
 2. **Personalized FL for Non-IID Data**:  

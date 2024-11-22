@@ -19,10 +19,10 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
   - Study "Communication-Efficient Learning of Deep Networks from Decentralized Data" (McMahan et al., 2017).  
 
 - **Day 2:**
-  - Watch [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://youtu.be/4zrU54VIK6k?feature=shared) - Lecture by Andrew Trask in January 2020, part of the MIT Deep Learning Lecture Series.
-  - Explore metrics for FL: communication efficiency, convergence rate, and accuracy trade-offs.  
-  - Add tracking for these metrics (e.g., rounds vs. accuracy) and visualize trends.  
-  - Experiment with varying **local epochs** (e.g., 1, 5, 10) to analyze their impact on convergence and accuracy.  
+  - Watched [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://youtu.be/4zrU54VIK6k?feature=shared) - Lecture by Andrew Trask in January 2020, part of the MIT Deep Learning Lecture Series.
+  - Explored metrics for FL: communication efficiency, convergence rate, and accuracy trade-offs.  
+  - Added tracking for these metrics (e.g., rounds vs. accuracy) and visualize trends.  
+  - Experimented with varying **local epochs** (e.g., 1, 5, 10) to analyze their impact on convergence and accuracy.  
 
 - **Day 3:** 
   - Simulate **non-IID datasets**:  

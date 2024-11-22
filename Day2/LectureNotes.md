@@ -1,7 +1,7 @@
 # **Privacy-Preserving AI: Notes**
 
 ## **Overview**
-This lecture by Andrew Trask explores the potential and impact of privacy-preserving AI technologies. It focuses on techniques enabling secure computations on sensitive data without direct access, such as differential privacy, federated learning, and secure multi-party computation (SMPC).
+This lecture [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://youtu.be/4zrU54VIK6k?feature=shared) - Lecture by Andrew Trask in January 2020, part of the MIT Deep Learning Lecture Series explores the potential and impact of privacy-preserving AI technologies. It focuses on techniques enabling secure computations on sensitive data without direct access, such as differential privacy, federated learning, and secure multi-party computation (SMPC).
 
 ---
 

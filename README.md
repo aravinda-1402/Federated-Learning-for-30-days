@@ -28,7 +28,7 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
   - Simulate **non-IID datasets**:  
     - Created skewed MNIST distributions (e.g., each client has data for specific digits).  
     - Trained FedAvg on non-IID data and analyze performance compared to IID datasets.
-    - Completed Intro to Federated Learning by Deeplearning.AI [Link](https://learn.deeplearning.ai/accomplishments/23baec0a-f486-4b41-930a-84d80d2c4e8d?usp=sharing)
+    - Completed Intro to Federated Learning by Deeplearning.AI [[Link]](https://learn.deeplearning.ai/accomplishments/23baec0a-f486-4b41-930a-84d80d2c4e8d?usp=sharing)
 
 - **Day 4:** 
   - Study and implement FedProx ("Federated Optimization in Heterogeneous Networks," Li et al., 2020).  

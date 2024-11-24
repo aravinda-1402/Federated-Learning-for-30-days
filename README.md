@@ -30,9 +30,8 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
     - Trained FedAvg on non-IID data and analyze performance compared to IID datasets.
     - Completed Intro to Federated Learning by Deeplearning.AI [[Link]](https://learn.deeplearning.ai/accomplishments/23baec0a-f486-4b41-930a-84d80d2c4e8d?usp=sharing)
 
-- **Day 4:** 
-  - Study and implement FedProx ("Federated Optimization in Heterogeneous Networks," Li et al., 2020).  
-  - Compare FedProx’s performance with FedAvg on non-IID datasets.  
+- **Day 4:**
+ - Completed Federated Fine-tuning of LLMs with Private Data By DeepLearning.AI [[Link]]() 
 
 - **Day 5:** 
   - Study Differential Privacy (DP) in FL:  
@@ -40,7 +39,9 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
     - Implement DP in your FedAvg setup by adding noise to gradients.  
 
 - **Day 6:** 
-  - Experiment with privacy-preserving FL:  
+  - Experiment with privacy-preserving FL:
+    - Study and implement FedProx ("Federated Optimization in Heterogeneous Networks," Li et al., 2020).  
+    - Compare FedProx’s performance with FedAvg on non-IID datasets.  
     - Combine Differential Privacy and FedProx for non-IID datasets.  
     - Compare their performance and privacy trade-offs.  
 

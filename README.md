@@ -31,7 +31,7 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
     - Completed Intro to Federated Learning by Deeplearning.AI [[Link]](https://learn.deeplearning.ai/accomplishments/23baec0a-f486-4b41-930a-84d80d2c4e8d?usp=sharing)
 
 - **Day 4:**
- - Completed Federated Fine-tuning of LLMs with Private Data By DeepLearning.AI [[Link]]() 
+  - Completed Federated Fine-tuning of LLMs with Private Data By DeepLearning.AI [[Link]]() 
 
 - **Day 5:** 
   - Study Differential Privacy (DP) in FL:  

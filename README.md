@@ -34,9 +34,7 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
   - Completed Federated Fine-tuning of LLMs with Private Data By DeepLearning.AI [[Link]]() 
 
 - **Day 5:** 
-  - Study Differential Privacy (DP) in FL:  
-    - Read "Deep Learning with Differential Privacy" (Abadi et al., 2016).  
-    - Implement DP in your FedAvg setup by adding noise to gradients.  
+  - Read a paper: Federated Learning Based Multilingual Emoji Prediction in Clean and Attack Scenarios.
 
 - **Day 6:** 
   - Experiment with privacy-preserving FL:

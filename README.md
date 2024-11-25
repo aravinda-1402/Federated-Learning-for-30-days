@@ -34,7 +34,7 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
   - Completed Federated Fine-tuning of LLMs with Private Data By DeepLearning.AI [[Link]]() 
 
 - **Day 5:** 
-  - Read a paper: Federated Learning Based Multilingual Emoji Prediction in Clean and Attack Scenarios.
+  - Read a paper: Federated Learning Based Multilingual Emoji Prediction in Clean and Attack Scenarios [[Link]](https://arxiv.org/abs/2304.01005)
 
 - **Day 6:** 
   - Experiment with privacy-preserving FL:

@@ -37,11 +37,12 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
   - Read a paper: Federated Learning Based Multilingual Emoji Prediction in Clean and Attack Scenarios [[Link]](https://arxiv.org/abs/2304.01005)
 
 - **Day 6:** 
-  - Experiment with privacy-preserving FL:
-    - Study and implement FedProx ("Federated Optimization in Heterogeneous Networks," Li et al., 2020).  
-    - Compare FedProx’s performance with FedAvg on non-IID datasets.  
-    - Combine Differential Privacy and FedProx for non-IID datasets.  
-    - Compare their performance and privacy trade-offs.  
+  - Federated Text Summarization with T5-small:
+     - Implemented a mini-project using the CNN/DailyMail dataset for text summarization.
+     - Used FedAvg to aggregate updates from multiple simulated clients.
+     - Distributed data subsets across clients to simulate decentralized environments.
+     - Fine-tuned the T5-small model in a privacy-preserving federated learning setup.
+     - Achieved meaningful summarization performance while ensuring client data privacy.
 
 - **Day 7:** 
   - Implement dynamic client participation:  

@@ -14,7 +14,6 @@ def train_client(data, model, epochs=2):
     """Train model on a single client's data."""
     optimizer = optim.Adam(model.parameters(), lr=5e-5)
     
-    # Add progress bar for training examples
     with tqdm(total=len(data) * epochs, desc="Training Client") as pbar:
         for epoch in range(epochs):
             for example in data:
@@ -27,7 +26,6 @@ def train_client(data, model, epochs=2):
                 text = example.get("article", "")
                 summary = example.get("highlights", "")
 
-                # Skip examples with missing data
                 if not text or not summary:
                     print(f"Skipping example with missing fields: {example}")
                     pbar.update(1)
@@ -73,8 +71,6 @@ def federated_averaging(global_model, clients_data, rounds=3):
 if __name__ == "__main__":
     # Prepare datasets
     clients_data = prepare_datasets()
-
-    # Debugging: Check one example from client_1's training data
     print("Debugging Example: ")
     print(clients_data["client_1"]["train"][0])
 

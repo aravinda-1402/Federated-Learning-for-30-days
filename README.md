@@ -45,9 +45,7 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
      - Achieved meaningful summarization performance while ensuring client data privacy.
 
 - **Day 7:** 
-  - Implement dynamic client participation:  
-    - Simulate clients randomly dropping out in each round.  
-    - Observe the combined effects of non-IID data and client dropouts on convergence.  
+  - Read a paper: Semi-Supervised Knowledge Transfer for Deep Learning from Private Training Data [[Link]](https://arxiv.org/abs/1610.05755)
 
 ---
 

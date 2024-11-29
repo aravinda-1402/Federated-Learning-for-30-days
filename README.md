@@ -51,11 +51,11 @@ This 30-day plan aims to strengthen my understanding of FL through implementatio
 
 ### Week 2: Privacy Vulnerabilities and Defenses
 - **Day 8:** 
-  - Study privacy attacks in FL, focusing on "Deep Leakage from Gradients" (Zhu et al., 2019).  
-  - Understand how gradients can leak sensitive client data.  
+  - Studied privacy attacks in machine learning, including Membership Inference Attacks, which exploit overfitting and confidence scores to determine if a data point was in the training set.
+  - Explored Model Extraction Attacks, where repeated API queries are used to reconstruct a model’s functionality, risking intellectual property theft.
 
 - **Day 9:** 
-  - Implement a gradient inversion attack to reconstruct client-side data from gradients.  
+  - Read a paper: "Equality of Opportunity in Supervised Learning" [[Link]](https://arxiv.org/abs/1610.02413) 
 
 - **Day 10:** 
   - Implement defenses: Differential Privacy and gradient clipping.  
